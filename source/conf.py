@@ -2,11 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # TSSpredator documentation build configuration file, created by
-<<<<<<< HEAD
-# sphinx-quickstart on Sun Mar 19 17:30:31 2017.
-=======
 # sphinx-quickstart on Fri Mar 31 14:35:15 2017.
->>>>>>> master
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -35,7 +31,6 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-<<<<<<< HEAD
 extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.doctest',
     'sphinx.ext.intersphinx',
@@ -43,10 +38,6 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode']
-=======
-extensions = ['sphinx.ext.todo',
-    'sphinx.ext.mathjax']
->>>>>>> master
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -144,11 +135,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'TSSpredator.tex', 'TSSpredator Documentation',
-<<<<<<< HEAD
-     'Alexander Herbig, Sven Fillinger, Kay Nieselt', 'manual'),
-=======
      'Sven Fillinger, Dr. Alexander Herbig, apl. Prof. Dr. Kay Nieselt', 'manual'),
->>>>>>> master
 ]
 
 
@@ -175,9 +162,3 @@ texinfo_documents = [
 
 
 
-<<<<<<< HEAD
-
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'https://docs.python.org/': None}
-=======
->>>>>>> master
